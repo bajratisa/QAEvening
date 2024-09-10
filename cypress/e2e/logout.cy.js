@@ -11,6 +11,6 @@ describe('Verify the logout function', () => {
     })
 
     it('Check if the user is able to logout', () => {
-        cy.get(':nth-child(4) > .oxd-userdropdown-link').click({force: true})
+        cy.get(':nth-child(5) > .oxd-userdropdown-link').click()
     })
 })
