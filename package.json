@@ -1,0 +1,15 @@
+{
+  "name": "qaevening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.8.1",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
